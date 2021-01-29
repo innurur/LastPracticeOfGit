@@ -15,6 +15,8 @@ public class LogInFunctionality {
         thr branches conflict
         should start my own research
 
+ok now working under the master branch
+let`s see if now I`ll have some conflict
 
          */
     }
