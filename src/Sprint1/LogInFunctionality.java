@@ -17,6 +17,10 @@ public class LogInFunctionality {
 
 ok now working under the master branch
 let`s see if now I`ll have some conflict
+well, now probably will be the conflict, cause
+Im working in branch1
+but before I added some changes
+under the master branch
 
          */
     }
