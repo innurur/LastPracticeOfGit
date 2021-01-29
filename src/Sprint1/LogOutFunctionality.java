@@ -13,6 +13,11 @@ cause, seems like
 conflict can be happen if under the same branch
 I`ll make changes in different place
 should check it
+
+still continue to work here
+that will checkout
+and merge through VCS
+
          */
     }
 }
