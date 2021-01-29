@@ -11,6 +11,11 @@ public class LogInFunctionality {
         just practicing again
         branches
 
+        well don`t understand fully
+        thr branches conflict
+        should start my own research
+
+
          */
     }
 
