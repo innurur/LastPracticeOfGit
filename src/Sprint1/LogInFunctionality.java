@@ -6,6 +6,12 @@ public class LogInFunctionality {
         String passord = "hsfhg655";
         // driver.login;
 
+        /*
+        Tired to write everything
+        just practicing again
+        branches
+
+         */
     }
 
 }
